@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99215991138",
+    "firebase_url": "https://messaging2-a5b5d.firebaseio.com",
+    "project_id": "messaging2-a5b5d",
+    "storage_bucket": "messaging2-a5b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99215991138:android:a3c4d7ddcd437612",
+        "android_client_info": {
+          "package_name": "com.nooblabs.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99215991138-dbktjj9ahd1i17r4l06c855tn286stdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nooblabs.messaging",
+            "certificate_hash": "8cd55fbda2dad6d2c53fab9c56824fa39eecf251"
+          }
+        },
+        {
+          "client_id": "99215991138-bvnvomevan81itbadjvoohclqrh23tsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKqu3cf9sBpMEXRpxRukp1h4R6_XHwgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99215991138-bvnvomevan81itbadjvoohclqrh23tsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
